@@ -30,7 +30,7 @@ function show(users , id) {
                         <p class="card-text text-muted fs-6">${user.descrincao}</p>
                     </div>
                     <section class="space text-center">
-                        <a href="View.html?id=${user.id}" class="btn btn-success disabled">Vizualizar</a>
+                        <a href="View.html?id=${user.id}" class="btn btn-success">Vizualizar</a>
                     </section>
                 </div>
             </div>
